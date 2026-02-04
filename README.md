@@ -32,8 +32,10 @@ Hands-on tutorials created by the community.
 
 | Resource | Creator | Description |
 | :--- | :--- | :--- |
-| [Gemini API Starter](https://github.com/) | [Name](https://github.com/) | Introduction to building with Gemini. |
-| [Flutter x Firebase](https://github.com/) | [Name](https://github.com/) | Real-time chat app implementation. |
+| [Building GraphRAG Agents with ADK](https://codelabs.developers.google.com/neo4j-adk-graphrag-agents?hl=en#0) | [Siddhanth Agarwal - GDE]() | Build a multi-agent investment research system that combines the power of Google's Agent Development Kit (ADK), Neo4j Graph Database, and the Model Context Protocol (MCP) Toolbox. |
+| [Build a Movie Recommendation Chatbot using Neo4j and Vertex AI](https://github.com/](https://codelabs.developers.google.com/neo4j-vertexai-movie-recommender-python?hl=en#0)) | [Siddhanth Agarwal - GDE]() | Build an intelligent movie recommendation chatbot by combining the power of Neo4j, Google Vertex AI, and Gemini.. |
+| [Codelab - Managing Kubernetes with kubectl-ai, an AI powered Kubernetes Assistant](https://codelabs.developers.google.com/kubernetes-with-kubectl-ai?hl=en#0) | [Ashutosh S. Bhakare - GDE]() | You will learn and use kubectl-ai, an AI powered Kubernetes Assistant powered tool to manage a GKE cluster.|
+
 
 ## Tech Talks
 Recorded sessions and slide decks from community speakers.
