@@ -61,19 +61,22 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 ---
 
 ## 🎤 Tech Talks
-*Recorded sessions from DevFests, I/O Extended, and Build with AI workshops.*
+*Recorded sessions and slide decks from community speakers.*
 
-* **The Future of Web** – [Speaker Name] | [Watch Video](https://youtube.com/)
-* **Modern Android with Compose** – [Speaker Name] | [Watch Video](https://youtube.com/)
+| Session Title | Speaker | Event | Link |
+| :--- | :--- | :--- | :--- |
+| **The Future of Web** | [Name](https://x.com/) | DevFest 2025 | [Watch Now](https://youtube.com/) |
+| **Modern Android with Compose** | [Name](https://x.com/) | Build with AI | [Watch Now](https://youtube.com/) |
 
 ---
 
 ## 💻 Open Source Projects
-*Toolkits and repositories maintained by the community.*
+*Open-source projects and toolkits built by the community.*
 
-* **[Google ADK Deployment Guide](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK)** – A comprehensive repo by **Bhavishya Pandit** on building and deploying agents via Vertex AI.
-
----
+| Project | Creator | Description | Repository |
+| :--- | :--- | :--- | :--- |
+| **Google ADK Guide** | [Bhavishya Pandit](https://github.com/bhav09) | The easiest way to learn, build, and deploy Agents using Google ADK and Vertex AI. | [View Repo](https://github.com/bhav09/Building-and-Deploying-Agents-using-Google-ADK) |
+| **Analytica Agent** | [Geeta Kakrani](https://github.com/geeta-gwalior) | Local, privacy-compliant AI dashboards featuring an Agentic AutoML roadmap. | [View Repo](https://github.com/geeta-gwalior/Analytica-Agent) |
 
 ## 📚 Learning Paths
 > Official Google resources categorized by technology stack.
