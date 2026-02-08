@@ -81,7 +81,7 @@ A curated list of awesome resources, projects, toolkits, and learning paths for 
 ---
 
 ## 📚 Learning Paths
-* **AI/ML:** [Build with Gemini](https://ai.google.dev/) • [TensorFlow](https://www.tensorflow.org/)
+* **AI/ML:** [Build with Gemini](https://ai.google.dev/) • [TensorFlow](https://www.tensorflow.org/) • [Master Agentic AI with Google ADK & MCP](https://youtube.com/playlist?list=PLLrA_pU9-Gz2HwepRUVpq1TEPuYWo_fSi&si=O-Pmux8jgOkql9r7) By [Vishal Bulbule](https://www.linkedin.com/in/vishal-bulbule/)
 * **Cloud:** [Google Cloud Skills Boost](https://www.cloudskillsboost.google/) • [Firebase Docs](https://firebase.google.com/docs)
 * **Mobile:** [Flutter](https://docs.flutter.dev/) • [Android Developers](https://developer.android.com/)
 * **Web:** [Web.dev](https://web.dev/learn/) • [Angular](https://angular.dev/)
